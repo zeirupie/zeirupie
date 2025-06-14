@@ -7,17 +7,6 @@
 
 ---
 
-## 🛠️ Skills
-
-- **Frontend:**  
-  - HTML, CSS, Tailwind CSS, a bit of JavaScript
-- **Backend:**  
-  - PHP (Laravel)
-- **Tools:**  
-  - VS Code, Git & GitHub, XAMPP
-
----
-
 ## 💻 Tech Stack
 
 <p>
