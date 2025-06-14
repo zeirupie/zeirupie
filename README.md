@@ -1,7 +1,5 @@
 <h1 style="text-align:center">👋 Hi, I'm Christian!</h1>
 
-## 🌱 About Me
-
 - 🎓 I'm a college student passionate about tech and coding.
 - 💻 I enjoy building simple web apps and experimenting with different tools and frameworks.
 - 🌐 I've used HTML, CSS, JavaScript, and PHP in my previous projects.
