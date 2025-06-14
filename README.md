@@ -24,6 +24,3 @@
 
 ---
 
-
-Thanks for visiting my profile!  
-I'm always open to learning tips and advice from the community. 😊
