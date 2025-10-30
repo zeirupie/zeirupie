@@ -1,4 +1,5 @@
 <h1 style="text-align:center">👋 Hi, I'm Christian!</h1>
+---
 ## 💻 Tech Stack
 
 <p>
