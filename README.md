@@ -1,6 +1,4 @@
 <h1 style="text-align:center">👋 Hi, I'm Christian!</h1>
----
-## 💻 Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32"/>
